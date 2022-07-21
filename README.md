@@ -9,13 +9,13 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:marik744056@gmail.com?subject="текст темы"">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+</div>
+<div id="mar" align="center">
+  <p>Связаться со мной: marik744056@gmail.com </p> 
 </div>
 
 <h2>Привет! Меня зовут Марат, я frontend JavaScript разработчик!<h2>
-<h3>Мой стек технологий:<br><h3>
+<h5>Мой стек технологий:<br><h5>
 <h4>
 <ul>
 <li>JavaScript</li>
