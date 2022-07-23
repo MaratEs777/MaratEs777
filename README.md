@@ -11,7 +11,7 @@
   </a>
 </div>
 <div id="mar" align="center">
-  <p>Связаться со мной: marik744056@gmail.com </p> 
+  <h4>Связаться со мной: marik744056@gmail.com </h4> 
 </div>
 
 <h2>Привет! Меня зовут Марат, я frontend JavaScript разработчик!<h2>
